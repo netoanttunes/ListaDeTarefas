@@ -68,7 +68,7 @@ function App() {
               <TableHead className='head'>
                 <TableRow>
                   <TableCell><strong>TAREFAS</strong></TableCell>
-                  <TableCell align="right"><strong>DELETAR</strong></TableCell>
+                  <TableCell align="right" />
                 </TableRow>
               </TableHead>
 
